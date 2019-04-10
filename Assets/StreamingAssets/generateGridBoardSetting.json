@@ -1,0 +1,11 @@
+{
+  "MarkersX": 5,
+  "MarkersY": 7,
+  "FirstMarker": 0,
+  "Separation": 0.01,
+  "MarkerLength": 0.04,
+  "Directory": "GridBoard",
+  "UseStreamingAssetsPath": true,
+  "Resolution": 2048,
+  "DictionaryId": 1
+}

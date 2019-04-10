@@ -1,0 +1,12 @@
+  {
+  "MarkerIds": [
+    0,
+    1000,
+    2000,
+    3000
+  ],
+  "Directory": "CanonicalMarker",
+  "UseStreamingAssetsPath": true,
+  "Resolution": 2048,
+  "DictionaryId": 2
+}

@@ -1,0 +1,10 @@
+{
+  "MarkersX": 5,
+  "MarkersY": 7,
+  "SquareLength": 0.04,
+  "MarkerLength": 0.03,
+  "Directory": "ChArucoBoard",
+  "UseStreamingAssetsPath": true,
+  "Resolution": 2048,
+  "DictionaryId": 0
+}
