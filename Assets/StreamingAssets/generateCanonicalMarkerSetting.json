@@ -1,9 +1,9 @@
   {
   "MarkerIds": [
     0,
-    1000,
-    2000,
-    3000
+    1,
+    2,
+    3
   ],
   "Directory": "CanonicalMarker",
   "UseStreamingAssetsPath": true,
